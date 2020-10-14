@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/1 - Build Basic Generative Adversarial Networks/Week 1/C1W1_Your_First_GAN.ipynb
+/1 - Build Basic Generative Adversarial Networks/Week 2/C1_W2_Assignment.ipynb
+/1 - Build Basic Generative Adversarial Networks/Week 3/C1W3_WGAN_GP.ipynb
+/1 - Build Basic Generative Adversarial Networks/Week 4/C1W4A_Build_a_Conditional_GAN.ipynb
+/1 - Build Basic Generative Adversarial Networks/Week 4/C1W4B_Controllable_Generation.ipynb
+/2 - Build Better Generative Adversarial Networks/Week 1/C2W1_Assignment.ipynb
+/2 - Build Better Generative Adversarial Networks/Week 2/C2W2_Assignment.ipynb
+/2 - Build Better Generative Adversarial Networks/Week 3/C2W3_Assignment.ipynb
